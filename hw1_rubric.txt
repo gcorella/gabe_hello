@@ -1,0 +1,23 @@
+[100] Hw1
+  [ 5]
+     5/ 5 Correctly committed a folder named as 'hw1'
+
+  [45] Prob1. firstname_hello.c
+     5/45 Correctly committed first name_hello.c
+    10/45 No compilation error
+    35/45 No runtime error
+    40/45 Output with the expected format
+    45/45 Output with the expected format and
+          the correct number of printed messages
+      	  
+  [30] Prob2. Makefile
+     5/30 Correctly committed Makefile
+    15/30 No Makefile format error
+    20/30 No Makefile format error, 1 correctly defined	target
+    25/30 No Makefile format error, 2 correctly defined target
+    30/30 No Makefile format error, all	targets are correctly defined.
+
+
+  [20] ReadME
+   	  Look up online for how to write a README and a file into your folder. Make sure 	  to add your name to the README   
+      
